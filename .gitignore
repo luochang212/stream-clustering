@@ -1,0 +1,8 @@
+.DS_Store
+.idea
+.vscode
+.ipynb_checkpoints
+
+__pycache__
+
+all.ipynb
